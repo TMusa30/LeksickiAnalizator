@@ -13,5 +13,5 @@ Operatori: Podržani su osnovni aritmetički operatori +, -, *, / te operator pr
   4. Ulazni podaci se mogu unijeti ručno putem konzole ili preusmjeriti iz tekstualne datoteke: "java LeksickiAnalizator < input.txt"
 
 
-U drugom repozirotiju ću stavit i program koji uzima zadan program i datoteku s testovima i na temelju njih usporeduje je li dobar izlaz i javlja "correct" ako je dobro i "incorrect" ako nije.
+U drugom repozitoriju (Checker) ću stavit i program koji uzima zadan program i datoteku s testovima i na temelju njih uspoređuje je li dobar izlaz i javlja "correct" ako je dobro i "incorrect" ako nije.
 S njim se brže testira jer omogućuje lakšu provjeru.
